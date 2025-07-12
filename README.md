@@ -9,8 +9,8 @@ Thankfully with the help of GetScreenCoords, a function provided by derpy54320, 
 
 
 Features:
-- All the necessary, fun, handy, and semi-harmless features to play with.
-- Modern and Dynamic UI (adjustable position, scale, width, and height)
+- A collection of essential, fun, handy, and "semi-harmless" features to play around with.
+- Modern and dynamic UI with adjustable position, scale, width, and height.
 
 
 Requirements:
