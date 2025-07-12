@@ -14,8 +14,8 @@ Features:
 
 
 Requirements:
-- Bully Scholarship Edition
-- Derpy's Script Loader 10 (S or Full Version)
+- Bully: Scholarship Edition.
+- Derpy's Script Loader 10 (S or Full Version).
 
 
 Controls:
